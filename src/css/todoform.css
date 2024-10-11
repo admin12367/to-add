@@ -1,0 +1,19 @@
+.inputform {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputform input {
+    margin: 10px 100px;
+    height: 35px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: ghostwhite;
+}
+
+.inputform button {
+    margin: 0px 320px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: orange;
+}
